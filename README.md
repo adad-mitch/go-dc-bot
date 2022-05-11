@@ -1,0 +1,3 @@
+# Bott The Pigeon
+
+Monorepo for a simple Discord Bot written in Go. It's currently hosted on an a single EC2 instance with the plan to go serverless at some point, and leverages the AWS SDK for things like image retrieval from S3, CloudWatch logging, and environment variable storage with SSM Parameter Store. The idea here was to be as linguistically diverse and idiomatic as possible (Still to have a crack at: Generics!!), so hopefully it should provide a breadth of understanding about the language.
